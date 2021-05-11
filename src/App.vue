@@ -60,9 +60,7 @@ body {
 }
 
 #app {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  margin-top: 60px auto;
+  margin: 60px auto;
   max-width: 58rem;
 }
 
