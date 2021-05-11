@@ -1,8 +1,8 @@
-# button-cmp
+# input-cmp
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">DevChallenges Button Component</h1>
+<h1 align="center">DevChallenges Input Component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -14,11 +14,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/HermanLD/Button-cmp-challenge">
+    <a href="https://github.com/HermanLD/input-component-challenge">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+    <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
       Challenge
     </a>
   </h3>
@@ -41,7 +41,7 @@
 
 ![Input Component](https://res.cloudinary.com/nimbus8/image/upload/v1620757471/portfolio/input-cmp-image_ufthxx.png)
 
-Learned to create a reusable app button using concepts to make them as flexible as possible.
+Learned to create a reusable app input using concepts to make them as flexible as possible.
 
 ### Built With
 
@@ -83,7 +83,6 @@ $ npm run serve
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [How You Can Speed Up Your Development With Vite 2.0](https://www.youtube.com/watch?v=SGIAwj3wp-o&t=345s)
 - [Strategies for Writing Reusable Components - Michael Thiessen](https://www.youtube.com/watch?v=bl2q5NCJInk)
 
 ## Contact
