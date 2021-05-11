@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://button-cmp-challenge.vercel.app/">
+    <a href="https://input-component-challenge.vercel.app/">
       Demo
     </a>
     <span> | </span>
